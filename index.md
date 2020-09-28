@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+##Git-OS
 
-You can use the [editor on GitHub](https://github.com/ooferton500/Git-Os/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find [Git-OS on GitHub](https://github.com/ooferton500/Git-Os/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Git-Os Is a community made Operating System made entirely In GitHub (and sometimes a scripting service like visual studio code)
 
-### Markdown
+### A snippet of Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is just a little bit of code that did not go into this
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+print('Welcome To Git-Os
+this is a community Held Project')
+print('There is not a lot here, unless we get some code into it')
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To see the Creator of Git-Os [Please Click Here](https://github.com/ooferton500).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ooferton500/Git-Os/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is just the Beginning, Git-Os is a long-lasting Software.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [our Website](https://sites.google.com/natomascharter.org/ooferton500/home) or [Contact GitHub](https://github.com/contact) and github  willn't help you sort it out
